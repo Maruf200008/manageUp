@@ -1,5 +1,8 @@
 {
   "scripts": {
     "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "react-redux": "^8.1.2"
   }
 }
