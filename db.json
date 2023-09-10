@@ -1,23 +1,41 @@
 {
-  "users": [],
-  "task": [
+  "users": [
     {
-      "id": 1,
-      "title": "Bangladesh",
-      "assainFor": "mohammadmarufgazi@gmail.com",
-      "description": "adsfasdflasdfalsdflasdfklaskdflkasdf",
-      "priority": "low",
-      "date": "",
-      "progress": 0
+      "email": "mohammadmarufgazi@gmail.com",
+      "password": "$2a$10$gBf0UwHHaI67BiR.HNPB8e1MGNhJ0PyOiKzeqdXSJyDm6yikBqeIO",
+      "name": "Maruf ",
+      "bio": "",
+      "profile": "",
+      "img": "",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Bangladeshasdfasdfads",
-      "assainFor": "mohammadmarufgazi@gmail.com",
-      "description": "adsfasdflasdfasdsdadsdfalsdflasdfklaskdflkasdf",
-      "priority": "High",
-      "date": "",
-      "progress": 1
+      "email": "marufgazi@gamil.com",
+      "password": "$2a$10$4oHCqNTrZHUTZMm92A762.LltffeY5RpN.D9JIRt/X3wiuaxDwp..",
+      "name": "Maruf",
+      "bio": "",
+      "profile": "",
+      "img": "",
+      "id": 2
+    },
+    {
+      "email": "maruf@gmail.com",
+      "password": "$2a$10$juz54tXDZtaFZ7TvJKkHm.LWeTVR0rZef0TQ9xH9Vj456xcgCwAKi",
+      "name": "Maruf",
+      "bio": "",
+      "profile": "",
+      "img": "",
+      "id": 3
+    },
+    {
+      "email": "marufgazi@gmail.com",
+      "password": "$2a$10$jCp4bj2uBaFhGa5ge6jaZuU4/pL8pnK7qeZJpX4n4ocGsIR7WfxTq",
+      "name": "Maruf Gazi",
+      "bio": "",
+      "profile": "",
+      "img": "",
+      "id": 4
     }
-  ]
+  ],
+  "task": []
 }
