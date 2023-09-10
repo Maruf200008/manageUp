@@ -7,11 +7,12 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0",
     "nodemon": "^2.0.19"
   },
   "name": "server",
-  "description": "1. এই \"server\" folder টি কপি করে আলাদা জায়গায় নিয়ে যান।\r 2. আপনার গিটহাবে আপ্লোড করুন এই কোড গুলো।\r 3. [Heroku](https://dashboard.heroku.com/) তে গিয়ে নতুন প্রজেক্ট তৈরি করুন।\r 4. Deployment method এ Github নির্বাচন করুন।\r 5. আপনার ব্রাঞ্চ সিলেক্ট করুন।\r 6. Deploy branch এ ক্লিক করে ডেপ্লয় করুন।\r 7. না বুঝতে পারলে এই ভিডিওটি দেখুন - https://learnwithsumit.com/courses/think-in-a-redux-way/how-to-deploy-server-to-heroku",
   "version": "1.0.0",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }

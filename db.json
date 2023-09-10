@@ -37,5 +37,40 @@
       "id": 4
     }
   ],
-  "task": []
+  "task": [
+    {
+      "title": "Task-1",
+      "assainFor": {
+        "email": "marufgazi@gamil.com",
+        "password": "$2a$10$4oHCqNTrZHUTZMm92A762.LltffeY5RpN.D9JIRt/X3wiuaxDwp..",
+        "name": "Maruf",
+        "bio": "",
+        "profile": "",
+        "img": "",
+        "id": 2
+      },
+      "description": "asdflasdfasdf",
+      "priority": "Normal",
+      "date": "Sep 27",
+      "progress": "Completed",
+      "id": 1
+    },
+    {
+      "title": "Task-2",
+      "assainFor": {
+        "email": "marufgazi@gamil.com",
+        "password": "$2a$10$4oHCqNTrZHUTZMm92A762.LltffeY5RpN.D9JIRt/X3wiuaxDwp..",
+        "name": "Maruf",
+        "bio": "",
+        "profile": "",
+        "img": "",
+        "id": 2
+      },
+      "description": "asdfasdfasdf",
+      "priority": "Normal",
+      "date": "Sep 27",
+      "progress": "Completed",
+      "id": 2
+    }
+  ]
 }
